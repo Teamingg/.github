@@ -11,5 +11,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![Image](https://github.com/user-attachments/assets/ecf8b04c-3bec-424a-b880-f1d5bc1aa3c7)
+![Image](https://github.com/user-attachments/assets/8920e644-6384-4a79-8c58-7958aa0fabdf)
 
