@@ -1,6 +1,6 @@
 ## Teaming 🐾
 
-<!--![teaming 시스템 아키텍쳐](https://github.com/user-attachments/assets/3034a422-58ed-4070-9c0f-9d5fff0cd3e3)
+![teaming 시스템 아키텍쳐](https://github.com/user-attachments/assets/3034a422-58ed-4070-9c0f-9d5fff0cd3e3)
 
 
 **Here are some ideas to get you started:**
