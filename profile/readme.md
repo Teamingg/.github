@@ -1,7 +1,7 @@
 ## Teaming 🐾
 
 ### 시스템 아키텍쳐
-![teaming 시스템 아키텍쳐](https://github.com/user-attachments/assets/3034a422-58ed-4070-9c0f-9d5fff0cd3e3)
+![teaming시스템아키텍쳐 drawio](https://github.com/user-attachments/assets/d7ec067b-db59-4c5c-a708-b7811a42209f)
 ---
 
 ### ERD
